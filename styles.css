@@ -1,0 +1,150 @@
+
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+
+
+
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: "Monsterrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 15px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: "Monsterrat", sans-serif;
+
+}
+ hr {
+   color: #EAF6F6;
+   border: none;
+   border-top-style: dotted;
+   border-width: 5px;
+   width: 5%;
+ }
+
+/*****************class selector*************/
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 180px;
+
+}
+
+
+.middle-container {
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  width: 1350px;
+  height: 45px;
+  margin-top: 55px;
+  padding-top: 45px;
+  padding-bottom: 45px;
+
+}
+.pro {
+  text-decoration: underline;
+}
+.para-description {
+  padding-top: 1em;
+  color: #EAF6F6;
+  font-size: smaller;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 90px;
+}
+
+.btn {
+  background-color: #66BFBF;
+  padding: 5px;
+  margin-top: 25px;
+  text-decoration-color: white;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}
+.btn:hover {
+  background-color: #30e3cb;
+}
+.btn2 {
+  padding-bottom: 50px;
+}
+.botton-cloud {
+  position: absolute;
+  left: 220px;
+  bottom: 300px;
+
+}
+.desing {
+  padding-bottom: 15px;
+}
+
+.footer-link1 {
+  color: #11999E;
+  padding-right: 25px;
+  text-decoration: none;
+}
+.footer-link1:hover {
+  color:  #EAF6F6;
+}
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color:  #EAF6F6;
+}
+.footer-link3 {
+  color: #11999E;
+  padding-left: 25px;
+  text-decoration: none;
+}
+.footer-link3:hover {
+  color:  #EAF6F6;
+}
+.profile {
+  padding-top: 50px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+
+}
+.wallflip {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.codeing {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.description-profile {
+  color: #40514E;
+  padding-bottom: 15px;
+}
